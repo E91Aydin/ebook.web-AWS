@@ -1,2 +1,2 @@
-# ebook.web-AWS
-Deploy project website on Amazon EC2 instance and configure logging, monitoring, alerts.  The web application on Apache Web Server to serve the web pages to internet clients. 
+# ebook.landing-AWS
+Deploy the projet landing page on the Amazon EC2 instance and configure logging, monitoring, and alerts.  The web application on Apache Web Server serves the web pages to internet clients. 
